@@ -1,5 +1,5 @@
 //10.	Write a Program for the following Mathematical Function
-
+// something
 package Assignment;
 
 public class Q10MathFunctions {

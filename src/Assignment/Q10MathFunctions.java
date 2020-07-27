@@ -1,4 +1,5 @@
 //10.	Write a Program for the following Mathematical Function
+// sample example
 
 package Assignment;
 
